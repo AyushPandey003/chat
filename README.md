@@ -22,7 +22,7 @@ To get a local copy up and running, clone the repository:
 
 ```bash
 git clone https://github.com/ayushpandey003/chat.git
-cd websocket-chat-app
+cd chat
 ```
 
 ### Running the Application
